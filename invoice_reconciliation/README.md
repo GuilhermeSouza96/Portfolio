@@ -24,6 +24,7 @@ This project performs reconciliation between Invoices and Credit Memos (Refunds)
 
 ```bash
 pip install pandas numpy
+```
 
 ## ▶️ Run
 

@@ -6,6 +6,8 @@ Each folder contains:
 - Data analysis or predictive modeling
 - Code in notebooks or scripts
 - Visualizations and business context
+- Data Cleansing
+- Automations
 
 ## 🔍 Highlights
 

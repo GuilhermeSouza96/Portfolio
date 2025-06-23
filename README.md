@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Hi! I'm Guilherme Albuquerque. This is a curated portfolio of my data science and analytics projects using Python and R.
+Hi! I'm Guilherme Albuquerque. This is a curated portfolio of my data science and analytics projects using Python.
 
 Each folder contains:
 - Data analysis or predictive modeling
@@ -12,9 +12,9 @@ Each folder contains:
 ## 🔍 Highlights
 
 ### Python
--**Clean number formatting**: Script to avoid errors like 1,000,000,00. All numbers have this format 1000000.00
-
-### R
+- **Clean number formatting**: Script to avoid errors like 1,000,000,00. All numbers have this format 1000000.00
+- **Invoice Data Reconciliation**: Conciliation of Invoices with Refunds
+- 
 
 ## 📫 Contact
 

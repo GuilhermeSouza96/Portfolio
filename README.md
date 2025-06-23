@@ -12,6 +12,7 @@ Each folder contains:
 ## 🔍 Highlights
 
 ### Python
+-**Clean number formatting**: Script to avoid errors like 1,000,000,00. All numbers have this format 1000000.00
 
 ### R
 

@@ -1,0 +1,3 @@
+Invoice: Invoice Number,Rate Plan Charge: WBE,Rate Plan Charge: Invoice Description,Account: XC_Segment,Invoice: Status_Sii,Credit Memo: Credit Memo Number,Credit Memo: Total Amount,Refund?
+INV004,45678,Produto D,B2B,Autorizada,nan,,False
+INV006,67890,Produto A,B2B,Autorizada,nan,,False

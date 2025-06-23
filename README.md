@@ -12,7 +12,7 @@ This repository is a curated portfolio of my projects using Python, focused on:
 ## ✨ Highlights
 
 ### Python Scripts
-- 🧹 **Clean number formatting**: Avoids issues like `1,000,000,00` vs `1,000,000.00`
+- 🧹 **[`Clean`](./Clean/)**: Avoids issues like `1,000,000,00` vs `1,000,000.00`
 - 🧾 **[`Invoice Reconciliation`](./invoice_reconciliation/)**: Matches invoices with credit memos/refunds
 
 

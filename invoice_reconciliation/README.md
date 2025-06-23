@@ -2,16 +2,11 @@
 
 This project performs reconciliation between Invoices and Credit Memos (Refunds), using filters such as product list and invoice status.
 
-## 📁 Project Structure
+## 📁 Folder Structure
 
-invoice_reconciliation/
-├── Invoice Data Reconciliation.py
-├── data/
-│ ├── Invoice.csv
-│ ├── Refund.csv
-│ └── Products.csv
-├── output/
-│ └── Clean DB.csv
+- `data/`: Input files (`Invoice.csv`, `Refund.csv`, `Products.csv`)
+- `output/`: Processed results (`Clean DB.csv`)
+- `Invoice Data Reconciliation.py`: Main script
 
 ## ⚙️ How it works
 
@@ -24,6 +19,11 @@ invoice_reconciliation/
 - Python 3.x
 - pandas
 - numpy
+
+1. Install the required libraries:
+
+```bash
+pip install pandas numpy
 
 ## ▶️ Run
 

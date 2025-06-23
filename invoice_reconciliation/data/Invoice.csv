@@ -1,0 +1,8 @@
+﻿Invoice: Invoice Number;Rate Plan Charge: WBE;Rate Plan Charge: Invoice Description;Account: XC_Segment;Invoice: Status_Sii
+INV001;12345;Produto A;B2B;Autorizada
+INV002;23456;Produto B;B2C;Autorizada
+INV003;34567;Produto C;B2B;Não Autorizada
+INV004;45678;Produto D;B2B;Autorizada
+INV005;56789;Produto X;B2C;Autorizada
+INV001;12345;Produto A;B2B;Autorizada
+INV006;67890;Produto A;B2B;Autorizada

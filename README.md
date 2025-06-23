@@ -1,20 +1,24 @@
 # Data Science Portfolio
 
-Hi! I'm Guilherme Albuquerque. This is a curated portfolio of my data science and analytics projects using Python.
+Hi! I'm Guilherme Albuquerque, a data analyst passionate about solving business problems using data.
 
-Each folder contains:
-- Data analysis or predictive modeling
-- Code in notebooks or scripts
-- Visualizations and business context
-- Data Cleansing
-- Automations
+This repository is a curated portfolio of my projects using Python, focused on:
 
-## 🔍 Highlights
+- Data cleaning and preprocessing
+- Business-driven data analysis
+- Visualizations and insights
+- Automation of repetitive tasks
 
-### Python
-- **Clean number formatting**: Script to avoid errors like 1,000,000,00. All numbers have this format 1000000.00
-- **Invoice Data Reconciliation**: Conciliation of Invoices with Refunds
-- 
+## ✨ Highlights
+
+### Python Scripts
+- 🧹 **Clean number formatting**: Avoids issues with `1.000.000,00` vs `1,000,000.00`
+- 🧾 **Invoice Reconciliation**: Matches invoices with credit memos/refunds
+
+
+## 👨‍💻 About Me
+
+I'm a data analyst at Enel X, working with Python, R, Excel, and Power BI. I enjoy building solutions that combine automation and insights to support decision-making.
 
 ## 📫 Contact
 

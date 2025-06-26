@@ -22,5 +22,5 @@ File Stacker is a standalone executable tool that lets you stack (merge) files i
 
 ## Requirements
 
-- Compatible with Windows (or your OS).  
+- Compatible with Windows  
 - No installation or dependencies required.

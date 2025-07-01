@@ -19,6 +19,7 @@ This repository is a curated portfolio of my projects using Python, focused on:
 - 🧹 **[`Clean Number Formatting`](./Clean%20number%20formatting%20%28up%20to%20million%20scale%29.py/)**: Avoids issues like `1,000,000,00` vs `1,000,000.00`
 - 🧾 **[`Invoice Reconciliation`](./invoice_reconciliation/)**: Matches invoices with credit memos/refunds
 - 📋 **[`Stack Files`](./Stack%20Files/)**: Is a tool that merges .csv, .txt, and .xlsx files into one. You choose the encoding and separator. No installation needed
+- 🧾 **[`Study`](./Study/)**: Some interesting subjects studied
 
 
 ## 📫 Contact

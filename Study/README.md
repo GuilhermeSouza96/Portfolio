@@ -34,6 +34,9 @@ Some of the areas explored include:
 - 💡 **Case Studies and Mini-Challenges**  
   Practical scenarios like rent payment tracking, invoice reconciliation, and more.
 
+- ✂️ **Outlier Detection & Removal**
+Identifying and removing statistical outliers using the Interquartile Range (IQR) method to ensure clean and reliable data for analysis.
+
 ## 📂 Structure
 
 Each notebook is self-contained and titled according to the theme or task it explores.

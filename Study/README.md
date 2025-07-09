@@ -37,6 +37,10 @@ Some of the areas explored include:
 - ✂️ **Outlier Detection & Removal**  
 Identifying and removing statistical outliers using the Interquartile Range (IQR) method to ensure clean and reliable data for analysis.
 
+- 📈 **Data Visualization with Real-World Immigration Data**  
+Creating compelling visualizations to explore immigration trends from Brazil and South America to Canada using line charts, bar plots, and interactive Plotly graphs. Emphasis on storytelling through data using theming, color palettes, and dynamic visual outputs.
+
+
 ## 📂 Structure
 
 Each notebook is self-contained and titled according to the theme or task it explores.

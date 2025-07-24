@@ -2,17 +2,6 @@
 
 Hi! I'm Guilherme Albuquerque, a data analyst passionate about solving business problems using data.
 
-## 👨‍💻 About Me
-
-I'm a data analyst at Enel X, working with Python, R, Excel, and Power BI. I enjoy building solutions that combine automation and insights to support decision-making.
-
-This repository is a curated portfolio of my projects using Python, focused on:
-
-- Data cleaning and preprocessing
-- Business-driven data analysis
-- Visualizations and insights
-- Automation of repetitive tasks
-
 ## ✨ Highlights
 
 ### Python Scripts
